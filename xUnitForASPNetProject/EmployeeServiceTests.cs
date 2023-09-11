@@ -4,7 +4,7 @@ using Xunit;
 
 namespace xUnitForASPNetProject
 {
-   public class xUnitForASPWebApp
+   public class EmployeeServiceTests
    {
       [Fact]
       public void Test_Invalid_EmployeeId()
